@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-25T08:24:06 IST" name="Default suite" finished-at="2026-11-25T08:25:10 IST" duration-ms="64783">
+    <groups>
+    </groups>
+    <test started-at="2026-11-25T08:24:06 IST" name="Default test" finished-at="2026-11-25T08:25:10 IST" duration-ms="64783">
+      <class name="in.TravelTest.test.LoginTestInMultipleScenarios">
+        <test-method is-config="true" signature="precondition()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:06 IST" name="precondition" finished-at="2026-11-25T08:24:11 IST" duration-ms="5061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="checkLoginLink()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:11 IST" name="checkLoginLink" finished-at="2026-11-25T08:24:13 IST" duration-ms="2326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginLink -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:13 IST" name="closeAnBrowser" finished-at="2026-11-25T08:24:16 IST" duration-ms="2602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:16 IST" name="precondition" finished-at="2026-11-25T08:24:18 IST" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="loginWithValidData()[pri:1, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:18 IST" name="loginWithValidData" finished-at="2026-11-25T08:24:31 IST" duration-ms="12866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidData -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:31 IST" name="closeAnBrowser" finished-at="2026-11-25T08:24:34 IST" duration-ms="2533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:34 IST" name="precondition" finished-at="2026-11-25T08:24:36 IST" duration-ms="2490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="forgetPasswordLink()[pri:3, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:36 IST" name="forgetPasswordLink" finished-at="2026-11-25T08:24:40 IST" duration-ms="4412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPasswordLink -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:40 IST" name="closeAnBrowser" finished-at="2026-11-25T08:24:43 IST" duration-ms="2468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:43 IST" name="precondition" finished-at="2026-11-25T08:24:45 IST" duration-ms="2305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="loginWithInValidData()[pri:3, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:45 IST" name="loginWithInValidData" finished-at="2026-11-25T08:24:58 IST" duration-ms="12888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInValidData -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:24:58 IST" name="closeAnBrowser" finished-at="2026-11-25T08:25:01 IST" duration-ms="2582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+        <test-method is-config="true" signature="precondition()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:25:01 IST" name="precondition" finished-at="2026-11-25T08:25:03 IST" duration-ms="2737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method signature="createAnAccount()[pri:4, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:25:03 IST" name="createAnAccount" finished-at="2026-11-25T08:25:08 IST" duration-ms="4433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnAccount -->
+        <test-method is-config="true" signature="closeAnBrowser()[pri:0, instance:in.TravelTest.test.LoginTestInMultipleScenarios@55182842]" started-at="2026-11-25T08:25:08 IST" name="closeAnBrowser" finished-at="2026-11-25T08:25:10 IST" duration-ms="2581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAnBrowser -->
+      </class> <!-- in.TravelTest.test.LoginTestInMultipleScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
